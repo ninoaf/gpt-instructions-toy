@@ -1,0 +1,12 @@
+# Core libraries
+torch>=2.1.0
+transformers>=4.38.0
+datasets>=2.14.0
+peft>=0.9.0
+accelerate>=0.23.0
+
+# 8-bit quantization and CUDA support
+bitsandbytes>=0.41.1
+
+# Optional
+tqdm

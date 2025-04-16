@@ -1,0 +1,5002 @@
+[
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 82 and 42?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 82, \"b\": 42}}"
+  },
+  {
+    "instruction": "What is the sum of 8 and 56?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 8, \"b\": 56}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the sum of 4 and 31?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 4, \"b\": 31}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the sum of 66 and 46?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 66, \"b\": 46}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the sum of 4 and 40?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 4, \"b\": 40}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 12 and 69?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 12, \"b\": 69}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the sum of 86 and 95?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 86, \"b\": 95}}"
+  },
+  {
+    "instruction": "What is the sum of 14 and 94?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 14, \"b\": 94}}"
+  },
+  {
+    "instruction": "What is the sum of 14 and 57?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 14, \"b\": 57}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the sum of 68 and 3?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 68, \"b\": 3}}"
+  },
+  {
+    "instruction": "What is the sum of 91 and 71?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 91, \"b\": 71}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 45 and 70?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 45, \"b\": 70}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 25 and 10?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 25, \"b\": 10}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 33 and 40?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 33, \"b\": 40}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 30 and 45?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 30, \"b\": 45}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the sum of 40 and 49?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 40, \"b\": 49}}"
+  },
+  {
+    "instruction": "What is the sum of 79 and 61?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 79, \"b\": 61}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the sum of 75 and 91?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 75, \"b\": 91}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 71 and 54?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 71, \"b\": 54}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 10 and 28?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 10, \"b\": 28}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 8 and 75?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 8, \"b\": 75}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the sum of 89 and 78?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 89, \"b\": 78}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the sum of 70 and 99?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 70, \"b\": 99}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 46 and 1?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 46, \"b\": 1}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 98 and 18?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 98, \"b\": 18}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 16 and 82?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 16, \"b\": 82}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the sum of 51 and 88?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 51, \"b\": 88}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the sum of 75 and 61?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 75, \"b\": 61}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the sum of 5 and 1?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 5, \"b\": 1}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the sum of 89 and 42?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 89, \"b\": 42}}"
+  },
+  {
+    "instruction": "What is the sum of 65 and 55?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 65, \"b\": 55}}"
+  },
+  {
+    "instruction": "What is the sum of 50 and 82?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 50, \"b\": 82}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the sum of 76 and 1?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 76, \"b\": 1}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 45 and 82?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 45, \"b\": 82}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 26 and 39?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 26, \"b\": 39}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the sum of 77 and 75?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 77, \"b\": 75}}"
+  },
+  {
+    "instruction": "What is the sum of 2 and 39?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 2, \"b\": 39}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 55 and 34?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 55, \"b\": 34}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 52 and 48?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 52, \"b\": 48}}"
+  },
+  {
+    "instruction": "What is the sum of 9 and 63?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 9, \"b\": 63}}"
+  },
+  {
+    "instruction": "What is the sum of 95 and 65?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 95, \"b\": 65}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the sum of 51 and 38?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 51, \"b\": 38}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the sum of 1 and 47?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 1, \"b\": 47}}"
+  },
+  {
+    "instruction": "What is the sum of 9 and 67?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 9, \"b\": 67}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the sum of 24 and 62?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 24, \"b\": 62}}"
+  },
+  {
+    "instruction": "What is the sum of 28 and 52?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 28, \"b\": 52}}"
+  },
+  {
+    "instruction": "What is the sum of 97 and 66?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 97, \"b\": 66}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "What is the sum of 55 and 90?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 55, \"b\": 90}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 65 and 76?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 65, \"b\": 76}}"
+  },
+  {
+    "instruction": "What is the sum of 60 and 18?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 60, \"b\": 18}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the sum of 14 and 65?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 14, \"b\": 65}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 24 and 89?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 24, \"b\": 89}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 70 and 51?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 70, \"b\": 51}}"
+  },
+  {
+    "instruction": "What is the sum of 35 and 82?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 35, \"b\": 82}}"
+  },
+  {
+    "instruction": "What is the sum of 77 and 21?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 77, \"b\": 21}}"
+  },
+  {
+    "instruction": "What is the sum of 40 and 45?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 40, \"b\": 45}}"
+  },
+  {
+    "instruction": "What is the sum of 19 and 1?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 19, \"b\": 1}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 84 and 18?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 84, \"b\": 18}}"
+  },
+  {
+    "instruction": "What is the sum of 46 and 99?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 46, \"b\": 99}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 69 and 89?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 69, \"b\": 89}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 95 and 63?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 95, \"b\": 63}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the sum of 9 and 16?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 9, \"b\": 16}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 89 and 36?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 89, \"b\": 36}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 18 and 4?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 18, \"b\": 4}}"
+  },
+  {
+    "instruction": "What is the sum of 19 and 80?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 19, \"b\": 80}}"
+  },
+  {
+    "instruction": "What is the sum of 17 and 45?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 17, \"b\": 45}}"
+  },
+  {
+    "instruction": "What is the sum of 13 and 12?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 13, \"b\": 12}}"
+  },
+  {
+    "instruction": "What is the sum of 29 and 64?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 29, \"b\": 64}}"
+  },
+  {
+    "instruction": "What is the sum of 11 and 28?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 11, \"b\": 28}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the sum of 13 and 23?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 13, \"b\": 23}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the sum of 57 and 96?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 57, \"b\": 96}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 89 and 42?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 89, \"b\": 42}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the sum of 63 and 55?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 63, \"b\": 55}}"
+  },
+  {
+    "instruction": "What is the sum of 70 and 22?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 70, \"b\": 22}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 79 and 61?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 79, \"b\": 61}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the sum of 29 and 48?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 29, \"b\": 48}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 62 and 14?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 62, \"b\": 14}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the sum of 73 and 78?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 73, \"b\": 78}}"
+  },
+  {
+    "instruction": "What is the sum of 32 and 60?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 32, \"b\": 60}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the sum of 38 and 85?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 38, \"b\": 85}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 37 and 70?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 37, \"b\": 70}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 58 and 9?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 58, \"b\": 9}}"
+  },
+  {
+    "instruction": "What is the sum of 39 and 59?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 39, \"b\": 59}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the sum of 60 and 81?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 60, \"b\": 81}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 52 and 72?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 52, \"b\": 72}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 69 and 71?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 69, \"b\": 71}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the sum of 20 and 47?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 20, \"b\": 47}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 75 and 32?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 75, \"b\": 32}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the sum of 62 and 77?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 62, \"b\": 77}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 16 and 9?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 16, \"b\": 9}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "What is the sum of 63 and 28?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 63, \"b\": 28}}"
+  },
+  {
+    "instruction": "What is the sum of 22 and 68?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 22, \"b\": 68}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 71 and 80?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 71, \"b\": 80}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the sum of 97 and 37?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 97, \"b\": 37}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the sum of 98 and 97?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 98, \"b\": 97}}"
+  },
+  {
+    "instruction": "What is the sum of 1 and 62?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 1, \"b\": 62}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the sum of 52 and 39?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 52, \"b\": 39}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 30 and 18?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 30, \"b\": 18}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 30 and 80?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 30, \"b\": 80}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 95 and 77?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 95, \"b\": 77}}"
+  },
+  {
+    "instruction": "What is the sum of 54 and 85?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 54, \"b\": 85}}"
+  },
+  {
+    "instruction": "What is the sum of 50 and 30?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 50, \"b\": 30}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the sum of 64 and 23?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 64, \"b\": 23}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the sum of 17 and 62?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 17, \"b\": 62}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the sum of 81 and 70?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 81, \"b\": 70}}"
+  },
+  {
+    "instruction": "What is the sum of 85 and 13?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 85, \"b\": 13}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 79 and 16?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 79, \"b\": 16}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the sum of 83 and 18?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 83, \"b\": 18}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the sum of 47 and 31?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 47, \"b\": 31}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the sum of 5 and 29?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 5, \"b\": 29}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the sum of 87 and 43?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 87, \"b\": 43}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 62 and 49?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 62, \"b\": 49}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the sum of 64 and 73?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 64, \"b\": 73}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 58 and 28?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 58, \"b\": 28}}"
+  },
+  {
+    "instruction": "What is the sum of 51 and 77?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 51, \"b\": 77}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 11 and 16?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 11, \"b\": 16}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 79 and 38?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 79, \"b\": 38}}"
+  },
+  {
+    "instruction": "What is the sum of 44 and 71?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 44, \"b\": 71}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the sum of 95 and 83?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 95, \"b\": 83}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the sum of 47 and 90?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 47, \"b\": 90}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 88 and 30?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 88, \"b\": 30}}"
+  },
+  {
+    "instruction": "What is the sum of 97 and 8?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 97, \"b\": 8}}"
+  },
+  {
+    "instruction": "What is the sum of 76 and 12?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 76, \"b\": 12}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the sum of 97 and 24?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 97, \"b\": 24}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the sum of 10 and 12?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 10, \"b\": 12}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "What is the sum of 97 and 21?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 97, \"b\": 21}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the sum of 51 and 8?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 51, \"b\": 8}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 51 and 21?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 51, \"b\": 21}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the sum of 81 and 62?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 81, \"b\": 62}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the sum of 17 and 21?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 17, \"b\": 21}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the sum of 83 and 30?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 83, \"b\": 30}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 68 and 66?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 68, \"b\": 66}}"
+  },
+  {
+    "instruction": "What is the sum of 70 and 79?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 70, \"b\": 79}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the sum of 21 and 88?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 21, \"b\": 88}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 46 and 58?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 46, \"b\": 58}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the sum of 74 and 55?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 74, \"b\": 55}}"
+  },
+  {
+    "instruction": "What is the sum of 33 and 71?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 33, \"b\": 71}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the sum of 62 and 52?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 62, \"b\": 52}}"
+  },
+  {
+    "instruction": "What is the sum of 23 and 76?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 23, \"b\": 76}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 75 and 32?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 75, \"b\": 32}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the sum of 59 and 74?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 59, \"b\": 74}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 11 and 25?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 11, \"b\": 25}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "What is the sum of 62 and 11?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 62, \"b\": 11}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 23 and 11?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 23, \"b\": 11}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the sum of 56 and 61?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 56, \"b\": 61}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the sum of 19 and 54?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 19, \"b\": 54}}"
+  },
+  {
+    "instruction": "What is the sum of 60 and 5?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 60, \"b\": 5}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 61 and 23?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 61, \"b\": 23}}"
+  },
+  {
+    "instruction": "What is the sum of 25 and 40?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 25, \"b\": 40}}"
+  },
+  {
+    "instruction": "What is the sum of 93 and 93?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 93, \"b\": 93}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 52 and 69?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 52, \"b\": 69}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "What is the sum of 24 and 90?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 24, \"b\": 90}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the sum of 73 and 23?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 73, \"b\": 23}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the sum of 55 and 61?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 55, \"b\": 61}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the sum of 26 and 54?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 26, \"b\": 54}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 67 and 25?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 67, \"b\": 25}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the sum of 50 and 57?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 50, \"b\": 57}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the sum of 52 and 83?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 52, \"b\": 83}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 12 and 60?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 12, \"b\": 60}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the sum of 58 and 9?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 58, \"b\": 9}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 28 and 58?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 28, \"b\": 58}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the sum of 53 and 41?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 53, \"b\": 41}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 24 and 30?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 24, \"b\": 30}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the sum of 9 and 59?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 9, \"b\": 59}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 1 and 51?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 1, \"b\": 51}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 13 and 95?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 13, \"b\": 95}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the sum of 37 and 90?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 37, \"b\": 90}}"
+  },
+  {
+    "instruction": "What is the sum of 20 and 87?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 20, \"b\": 87}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 57 and 20?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 57, \"b\": 20}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the sum of 5 and 46?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 5, \"b\": 46}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 98 and 33?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 98, \"b\": 33}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 99 and 82?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 99, \"b\": 82}}"
+  },
+  {
+    "instruction": "What is the sum of 58 and 90?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 58, \"b\": 90}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 27 and 84?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 27, \"b\": 84}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 91 and 1?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 91, \"b\": 1}}"
+  },
+  {
+    "instruction": "What is the sum of 32 and 37?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 32, \"b\": 37}}"
+  },
+  {
+    "instruction": "What is the sum of 67 and 12?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 67, \"b\": 12}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the sum of 20 and 75?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 20, \"b\": 75}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 22 and 67?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 22, \"b\": 67}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the sum of 63 and 25?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 63, \"b\": 25}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 94 and 91?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 94, \"b\": 91}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the sum of 67 and 55?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 67, \"b\": 55}}"
+  },
+  {
+    "instruction": "What is the sum of 91 and 19?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 91, \"b\": 19}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the sum of 43 and 18?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 43, \"b\": 18}}"
+  },
+  {
+    "instruction": "What is the sum of 71 and 12?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 71, \"b\": 12}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the sum of 12 and 2?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 12, \"b\": 2}}"
+  },
+  {
+    "instruction": "What is the sum of 43 and 88?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 43, \"b\": 88}}"
+  },
+  {
+    "instruction": "What is the sum of 18 and 76?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 18, \"b\": 76}}"
+  },
+  {
+    "instruction": "What is the sum of 85 and 51?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 85, \"b\": 51}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the sum of 32 and 72?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 32, \"b\": 72}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 78 and 19?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 78, \"b\": 19}}"
+  },
+  {
+    "instruction": "What is the sum of 19 and 97?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 19, \"b\": 97}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the sum of 88 and 99?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 88, \"b\": 99}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 50 and 11?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 50, \"b\": 11}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the sum of 68 and 1?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 68, \"b\": 1}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the sum of 98 and 94?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 98, \"b\": 94}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 41 and 26?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 41, \"b\": 26}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 21 and 31?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 21, \"b\": 31}}"
+  },
+  {
+    "instruction": "What is the sum of 89 and 52?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 89, \"b\": 52}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 95 and 63?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 95, \"b\": 63}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 20 and 7?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 20, \"b\": 7}}"
+  },
+  {
+    "instruction": "What is the sum of 55 and 86?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 55, \"b\": 86}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What is the sum of 9 and 26?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 9, \"b\": 26}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the sum of 27 and 90?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 27, \"b\": 90}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the sum of 41 and 43?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 41, \"b\": 43}}"
+  },
+  {
+    "instruction": "What is the sum of 87 and 1?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 87, \"b\": 1}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the sum of 77 and 40?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 77, \"b\": 40}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "What is the sum of 19 and 17?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 19, \"b\": 17}}"
+  },
+  {
+    "instruction": "What is the sum of 68 and 68?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 68, \"b\": 68}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the sum of 50 and 65?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 50, \"b\": 65}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the sum of 15 and 62?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 15, \"b\": 62}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Thank you\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "Translate text into English.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the sum of 69 and 13?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 69, \"b\": 13}}"
+  },
+  {
+    "instruction": "What is the sum of 38 and 19?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 38, \"b\": 19}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 85 and 62?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 85, \"b\": 62}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on technology.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"technology\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the sum of 34 and 6?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 34, \"b\": 6}}"
+  },
+  {
+    "instruction": "What is the weather in London?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"London\"}}"
+  },
+  {
+    "instruction": "What is the sum of 15 and 19?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 15, \"b\": 19}}"
+  },
+  {
+    "instruction": "Give me the latest news on sports.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"sports\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the sum of 34 and 14?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 34, \"b\": 14}}"
+  },
+  {
+    "instruction": "What is the sum of 65 and 33?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 65, \"b\": 33}}"
+  },
+  {
+    "instruction": "What is the weather in Paris?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Paris\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on politics.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"politics\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "What is the sum of 44 and 1?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 44, \"b\": 1}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What time is it in PST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"PST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Good morning\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What is the sum of 15 and 92?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 15, \"b\": 92}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "What is the sum of 91 and 3?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 91, \"b\": 3}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "What is the sum of 46 and 17?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 46, \"b\": 17}}"
+  },
+  {
+    "instruction": "What time is it in CET timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"CET\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"German\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in EST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"EST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 35 and 28?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 35, \"b\": 28}}"
+  },
+  {
+    "instruction": "What is the weather in Berlin?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Berlin\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Translate text into German.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"German\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "What is the sum of 22 and 76?",
+    "input": "",
+    "output": "{\"tool\": \"calculate_sum\", \"args\": {\"a\": 22, \"b\": 76}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"English\"}}"
+  },
+  {
+    "instruction": "What time is it in JST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"JST\"}}"
+  },
+  {
+    "instruction": "What is the weather in Tokyo?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"Tokyo\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on entertainment.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"entertainment\", \"language\": \"French\"}}"
+  },
+  {
+    "instruction": "Translate text into Spanish.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"How are you?\", \"target_language\": \"Spanish\"}}"
+  },
+  {
+    "instruction": "What time is it in IST timezone?",
+    "input": "",
+    "output": "{\"tool\": \"get_time\", \"args\": {\"timezone\": \"IST\"}}"
+  },
+  {
+    "instruction": "Translate text into French.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Hello\", \"target_language\": \"French\"}}"
+  },
+  {
+    "instruction": "What is the weather in New York?",
+    "input": "",
+    "output": "{\"tool\": \"get_weather\", \"args\": {\"location\": \"New York\"}}"
+  },
+  {
+    "instruction": "Translate text into Japanese.",
+    "input": "",
+    "output": "{\"tool\": \"translate_text\", \"args\": {\"text\": \"Goodbye\", \"target_language\": \"Japanese\"}}"
+  },
+  {
+    "instruction": "Give me the latest news on science.",
+    "input": "",
+    "output": "{\"tool\": \"get_news\", \"args\": {\"topic\": \"science\", \"language\": \"German\"}}"
+  }
+]
